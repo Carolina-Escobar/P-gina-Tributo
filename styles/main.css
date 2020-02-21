@@ -1,0 +1,15 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;/*https://i.annihil.us/u/prod/marvel/images/OpenGraph-TW-1200x630.jpg*/
+    text-align: center;
+}
+
+#img-div img{
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    display: -moz-box;
+    margin: 20px;
+   border-color: whitesmoke;
+}
